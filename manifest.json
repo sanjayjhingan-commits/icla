@@ -1,15 +1,14 @@
 {
-  "name": "iCLA — Your Academic Journey",
-  "short_name": "iCLA",
-  "description": "Track your iCLA academic progress toward graduation at Yamanashi Gakuin University.",
-  "start_url": "./index.html",
-  "scope": "./",
+  "name": "iCLA Academic Journey",
+  "short_name": "iCLA Journey",
+  "description": "Track your academic progress at iCLA — Yamanashi Gakuin University",
+  "start_url": "/icla-journey.html",
   "display": "standalone",
-  "background_color": "#1C2B4A",
+  "background_color": "#F4F1EA",
   "theme_color": "#1C2B4A",
   "orientation": "portrait-primary",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+    { "src": "icon.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon.png", "sizes": "512x512", "type": "image/png" }
   ]
 }
